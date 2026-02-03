@@ -8,56 +8,56 @@
   --font-sans: 'DM Sans', sans-serif;
   --font-display: 'Outfit', sans-serif;
 
-  /* Deep Navy */
-  --background: 220 30% 98%;
-  --foreground: 222 47% 11%;
+  /* Darkish Grey with Hints of Red and Blue */
+  --background: 222 15% 12%;
+  --foreground: 210 40% 98%;
   
-  /* Vibrant Orange Accent */
-  --primary: 25 95% 53%;
-  --primary-foreground: 0 0% 100%;
+  /* Performance Red */
+  --primary: 0 84% 60%;
+  --primary-foreground: 210 40% 98%;
   
-  /* Slate/Blue tones */
-  --secondary: 215 25% 27%;
+  /* Deep Athletic Blue */
+  --secondary: 217 33% 17%;
   --secondary-foreground: 210 40% 98%;
   
-  --muted: 215 16% 92%;
-  --muted-foreground: 215 16% 47%;
+  --muted: 222 15% 20%;
+  --muted-foreground: 215 20% 65%;
   
-  --accent: 25 95% 96%;
-  --accent-foreground: 25 95% 45%;
+  --accent: 217 33% 25%;
+  --accent-foreground: 210 40% 98%;
   
   --destructive: 0 84% 60%;
-  --destructive-foreground: 0 0% 98%;
+  --destructive-foreground: 210 40% 98%;
 
-  --border: 214 32% 91%;
-  --input: 214 32% 91%;
-  --ring: 25 95% 53%;
+  --border: 222 15% 25%;
+  --input: 222 15% 25%;
+  --ring: 0 84% 60%;
 
   --radius: 0.75rem;
 }
 
 .dark {
-  --background: 222 47% 11%;
+  --background: 222 15% 8%;
   --foreground: 210 40% 98%;
   
-  --primary: 25 95% 53%;
-  --primary-foreground: 0 0% 100%;
+  --primary: 0 84% 60%;
+  --primary-foreground: 210 40% 98%;
   
-  --secondary: 217 33% 17%;
+  --secondary: 217 33% 12%;
   --secondary-foreground: 210 40% 98%;
   
-  --muted: 217 33% 17%;
+  --muted: 222 15% 15%;
   --muted-foreground: 215 20% 65%;
   
-  --accent: 25 95% 15%;
-  --accent-foreground: 25 95% 53%;
+  --accent: 217 33% 20%;
+  --accent-foreground: 210 40% 98%;
   
   --destructive: 0 62% 30%;
-  --destructive-foreground: 0 0% 98%;
+  --destructive-foreground: 210 40% 98%;
   
-  --border: 217 33% 17%;
-  --input: 217 33% 17%;
-  --ring: 25 95% 53%;
+  --border: 222 15% 18%;
+  --input: 222 15% 18%;
+  --ring: 0 84% 60%;
 }
 
 @layer base {
