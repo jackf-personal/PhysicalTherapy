@@ -124,7 +124,7 @@ export default function Home() {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-8">
                   <div className="text-white">
-                    <p className="font-bold text-lg">Callum Smith</p>
+                    <p className="font-bold text-lg">Callum Hammerton</p>
                     <p className="text-white/80 text-sm">Head Physiotherapist</p>
                   </div>
                 </div>
@@ -141,7 +141,7 @@ export default function Home() {
                   <CheckCircle2 className="w-6 h-6" />
                 </div>
                 <div>
-                  <p className="font-bold text-sm">Certified Pro</p>
+                  <p className="font-bold text-sm text-gray-900">Certified Pro</p>
                   <p className="text-xs text-muted-foreground">Sports Therapy UK</p>
                 </div>
               </motion.div>
@@ -193,7 +193,7 @@ export default function Home() {
               </h2>
               <div className="space-y-6 text-lg text-muted-foreground">
                 <p>
-                  Hi, I'm Callum. I founded PhysiCal with a simple mission: to make elite-level physiotherapy accessible to everyone.
+                  Hi, I'm Callum Hammerton. I founded PhysiCal with a simple mission: to make elite-level physiotherapy accessible to everyone.
                 </p>
                 <p>
                   With years of experience working in professional sports and private practice, I understand that every injury is unique. That's why I don't just treat symptoms — I look for the root cause.
@@ -312,7 +312,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg text-foreground">Call Us</h4>
-                    <p className="text-muted-foreground">+44 (0) 20 1234 5678</p>
+                    <p className="text-muted-foreground">07988384749</p>
                   </div>
                 </div>
               </div>
