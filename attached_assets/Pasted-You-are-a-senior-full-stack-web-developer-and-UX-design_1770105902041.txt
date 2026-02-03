@@ -1,0 +1,109 @@
+You are a senior full-stack web developer and UX designer.
+
+Create a modern, high-conversion landing page for a physiotherapy and sports therapy business.
+
+Business details:
+- Business name: "PhysiCal"
+- The name is a play on the owner's name, Callum
+- Industry: Physiotherapy / Sports Therapy / Injury Rehab
+- Target audience: Active adults, athletes, gym-goers, people with injuries or pain
+- Tone: Professional, confident, approachable, performance-focused (not clinical or cold)
+
+Tech requirements:
+- Use HTML5, modern semantic markup
+- Use native (vanilla) JavaScript only (no frameworks)
+- Structure the code so it fits naturally into a Laravel project:
+  - Blade-friendly HTML
+  - Asset paths suitable for Laravel (e.g. /public/css, /public/js, /public/images)
+- Use a single main HTML file (or Blade view) with linked CSS and JS
+- No build tools, no React, no Vue
+
+Design requirements:
+- Use the provided logo (assume it is available at /public/images/logo.png)
+- Use high-quality sample / stock images as placeholders (sports therapy, rehab, massage, gym, etc.)
+- Leave clear TODO comments for:
+  - Brand colours
+  - Final copy text
+  - Contact details
+  - Pricing
+  - Booking link
+- Clean, bold, modern layout
+- Mobile-first and fully responsive
+- Strong contrast and readability
+- Subtle animations only (fade-in, hover states)
+
+Landing page sections (in this order):
+
+1. Header / Navigation
+   - Logo on the left
+   - Simple nav links (Services, About, Book, Contact)
+   - Sticky on scroll
+
+2. Hero Section
+   - Large headline introducing PhysiCal
+   - Subheadline focused on pain relief, performance, and recovery
+   - Primary CTA button (e.g. “Book a Session”)
+   - Secondary CTA (e.g. “View Services”)
+   - Background image or split layout with a sports therapy image
+
+3. Trust / Value Props
+   - 3–4 key benefits (e.g. Injury Rehab, Sports Performance, Hands-On Treatment, Personalised Plans)
+   - Icons or simple visuals
+
+4. Services Section
+   - Grid of services (use placeholders):
+     - Sports Therapy
+     - Physiotherapy
+     - Injury Rehabilitation
+     - Mobility & Recovery
+   - Short descriptions (generic placeholder text)
+
+5. About Section
+   - Intro to Callum (by name)
+   - Friendly, professional tone
+   - Placeholder portrait image
+   - Leave TODO for qualifications and experience
+
+6. Process / How It Works
+   - Step-by-step: Assess → Treat → Recover → Perform
+   - Simple horizontal or vertical layout
+
+7. Testimonials (Placeholder)
+   - 2–3 sample testimonials
+   - Clearly marked as placeholders
+
+8. Call To Action Section
+   - Strong headline
+   - One clear action button
+   - Emphasise recovery, performance, and confidence
+
+9. Contact / Booking Section
+   - Simple contact form (HTML only, no backend logic)
+   - Fields: Name, Email, Message
+   - TODO note for Laravel form handling / validation
+
+10. Footer
+    - Business name
+    - Quick links
+    - Social icons (placeholders)
+    - Copyright
+
+JavaScript requirements:
+- Smooth scroll for anchor links
+- Simple mobile nav toggle
+- Optional subtle scroll-in animations (Intersection Observer)
+- No external JS libraries
+
+CSS requirements:
+- Write clean, modern CSS (no Tailwind)
+- Use CSS variables for colours with placeholder values
+- Clearly comment where brand colours should go
+- Responsive layouts using flexbox / grid
+
+Output requirements:
+- Provide:
+  - HTML (or Blade) file
+  - CSS file
+  - JS file
+- Include clear comments explaining structure and TODOs
+- Code should be copy-paste ready into a Laravel project
