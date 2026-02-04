@@ -292,7 +292,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg text-foreground">Visit Us</h4>
-                    <p className="text-muted-foreground">123 Wellness Avenue<br/>London, UK SW1A 1AA</p>
+                    <p className="text-muted-foreground">123 Some Mad Gaff Avenue<br/>London</p>
                   </div>
                 </div>
 
@@ -361,7 +361,7 @@ export default function Home() {
           
           <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-white/40 text-sm">
             <p>&copy; {new Date().getFullYear()} PhysiCal Therapy. All rights reserved.</p>
-            <p>Designed with precision.</p>
+            <p>Designed by Fish</p>
           </div>
         </div>
       </footer>
