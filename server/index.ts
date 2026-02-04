@@ -97,4 +97,3 @@ if (process.env.NODE_ENV !== "production") {
   setup();
 }
 
-export default app;
